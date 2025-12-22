@@ -44,3 +44,5 @@ Le concept du choix d'un ordre de dispersion/concentration/recrutement depuis un
 <img src="./pictures/Terre-de-Barons-2025-1109-1014-16.jpg" style="zoom:100%;" />
 
 <img src="./pictures/la-boite-donjons-et-barons-2025-1004-1906.jpg" width="100%"/>
+
+<img src="./pictures/Terre-de-Barons-illustration-4e.png" width="100%"/>
