@@ -11,7 +11,7 @@ Terre de Barons est un wargame léger dans lequel le hasard s'applique aux resso
 
 <img src="./pictures/Terre-de-Barons-2025-1109-1024-36.jpg" style="zoom:100%;" />
 
-Voir situations de jeu sur les [photos](#Photos) ci-dessous. Voir les fichiers "[Word](https://github.com/LucasBorboleta/Donjons-et-Barons/blob/main/Donjons-et-Barons-les-regles.docx)" ou "[PDF](https://github.com/LucasBorboleta/Donjons-et-Barons/blob/main/Donjons-et-Barons-les-regles.pdf)" pour les **règles détaillées** (also available in "[English](https://github.com/LucasBorboleta/Donjons-et-Barons/blob/main/Donjons-and-Barons-the-rules.pdf)").
+Voir situations de jeu sur les [photos](#Photos) ci-dessous. Voir le fichier "[PDF](https://github.com/LucasBorboleta/Donjons-et-Barons/blob/main/Terre-de-Barons-les-regles.pdf)" pour les **règles détaillées**.
 
 Voir la playlist **YouTube** [Terre-de-Barons](https://www.youtube.com/playlist?list=PLui_B_YF7szOCI3bv5orTqHsCmiYBMkyT) (et aussi [Donjons-et-Barons](https://www.youtube.com/playlist?list=PLui_B_YF7szNSGDArisupSQ0EuoTJJkg8)) pour des vidéos sur les **règles** et des **parties** filmées.
 
