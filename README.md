@@ -33,11 +33,7 @@ Le concept du choix d'un ordre de dispersion/concentration/recrutement depuis un
 
 <img src="./pictures/Terre-de-Barons-Situations/Terre-de-Barons-Situations-2026-0312-1347-07.jpg" style="zoom:100%;" />
 
+<img src="./pictures/Terre-de-Barons-Situations/Terre-de-Barons-Situations-2026-0312-1347-30.jpg" style="zoom:100%;" />
 
-
-<img src="<img src="./pictures/Terre-de-Barons-Situations/Terre-de-Barons-Situations-2026-0312-1347-30.jpg" style="zoom:100%;" />" style="zoom:100%;" />
-
-<img src="./pictures/logo-5.png" style="zoom:100%;" />
-
-
+<img src="./pictures/logo-5.png" style="zoom:100%;"  />
 
