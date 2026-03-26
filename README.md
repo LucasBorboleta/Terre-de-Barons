@@ -7,7 +7,7 @@ Qui s’imposera comme le Baron le plus puissant ? Êtes-vous prêt pour une ave
 
 <img src="./pictures/Terre-de-Barons-1.jpg" style="zoom:100%;" />
 
-Voir situations de jeu sur les [photos](#Photos) ci-dessous. Voir le fichier "[PDF](./Terre-de-Barons-les-regles.pdf)" pour les **règles détaillées**.
+Voir situations de jeu sur les [photos](#Photos) ci-dessous. Voir cette [vidéo](https://youtu.be/a39c2wJPorA)" pour un **aperçu des règles en 5 mn**. Voir le fichier "[PDF](./Terre-de-Barons-les-regles.pdf)" pour les **règles détaillées**.
 
 Ce projet est en phase avancée de test.
 
