@@ -1,9 +1,11 @@
 # Terre de Barons : les règles du jeu
-Dans Terre de Barons, vous incarnez un stratège médiéval engagé dans la **conquête de terres disputées**. Sur un plateau modulaire renouvelé à chaque partie, vos actions sont dictées par la **gestion des cartes de votre deck**.
+Dans **Terre de Barons**, vous incarnez un **Seigneur Suzerain** engagé dans la conquête de provinces morcelées. Sur un domaine qui se dessine à chaque bataille, vos ordres sont dictés par la gestion de vos cartes.
 
-Vos Officiers — un **Baron** et ses **Chevaliers** — parcourent le terrain pour assurer la **logistique** de votre armée : ils recrutent, déplacent vos **Troupes** et ordonnent la construction des **Donjons**, piliers de votre conquête. Les manœuvres de Troupes peuvent provoquer des affrontements décisifs, tandis que le placement stratégique de vos Chevaliers permet de bloquer ou de limiter les ordres adverses.
+Vos **Seigneurs** — votre **Baron** et ses **Chevaliers Liges** — parcourent le terrain pour assurer la logistique de votre armée : ils lèvent des **Troupes**, déplacent vos bataillons et ordonnent la construction de **Donjons**, piliers de votre conquête.
 
-Qui s’imposera comme le Baron le plus puissant ? Êtes-vous prêt pour une aventure épique où se mêlent **stratégie**, **tactique** et **prise de risque** ?
+Les manœuvres de Troupes peuvent provoquer des affrontements décisifs, tandis que le placement stratégique de vos Chevaliers permet de verrouiller les positions adverses et de limiter les ordres de vos rivaux.
+
+Qui s’imposera comme le Baron le plus puissant ? Êtes-vous prêt pour une aventure épique où se mêlent stratégie, tactique et prise de risque ?
 
 <img src="./pictures/Terre-de-Barons-1.jpg" style="zoom:100%;" />
 
