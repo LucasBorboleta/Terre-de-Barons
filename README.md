@@ -23,7 +23,7 @@ Voir situations de jeu sur les [photos](#Photos) ci-dessous. Voir cette [vidéo]
 
 Ce projet est en phase avancée de test.
 
-<img src="./pictures/Tabletopia-Logo.png" width="100px"/>[Playtest "Land of Barons" on Tabletopia](https://tabletopia.com/games/land-of-barons-fdva5w/680x340) 
+<img src="./pictures/Tabletopia-Logo.png" width="100px"/>[Playtest "Land of Barons" on Tabletopia](https://tabletopia.com/games/land-of-barons-fdva5w/680x340) (setup français + English setup)
 
 ## Informations générales
 
