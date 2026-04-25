@@ -21,7 +21,7 @@ Who will emerge as the most powerful Baron? Are you ready for an epic adventure 
 
 Voir situations de jeu sur les [photos](#Photos) ci-dessous. Voir cette [vidéo](https://youtu.be/a39c2wJPorA)" pour un **aperçu des règles en 5 mn**. Voir le fichier "[PDF](./Terre-de-Barons-les-regles.pdf)" pour les **règles détaillées**. Read the "[PDF](./Land-of-Barons-the-Rules.pdf)" **rulebook** in **English**
 
-Ce projet est en phase avancée de test.
+Ce projet est en phase avancée de test. This project is in advanced playtesting.
 
 <img src="./pictures/Tabletopia-Logo.png" width="100px"/>[Playtest "Land of Barons" on Tabletopia](https://tabletopia.com/games/land-of-barons-fdva5w/680x340) (setup français + English setup)
 
