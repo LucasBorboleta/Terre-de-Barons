@@ -42,4 +42,15 @@ Voici une proposition :
 * Le joueur qui pioche le dernier Messager pour la Paix termine complètement son tour de jeu, puis la partie s'arrête et on procède à la détermination du vainqueur, comme d'habitude.
 * Pour être complet, même si c'est improbable, convenons qu'un troisième cycle de deck est possible, et que dans ce cas, les cartes calamités sont à nouveau insérés dans le deck, mais pas la carte Messager pour la Paix.
 
-Reste juste à trouver le nom et le design final pour cet événement "Messager pour la Paix"
+Reste juste à trouver le nom et le design final pour cet événement "Messager pour la Paix".
+
+## Thématisation
+
+*  Carte "Héraut de Pourparlers"
+* Fin par "Déclaration de Paix"
+* Zone du "Conseil des Hérauts"
+
+Expressions :
+
+* Il y a déjà deux Hérauts de Pourparlers au Conseil... si le troisième arrive, la Paix sera déclarée et je n'aurai pas le temps de reprendre ma cité !
+* La partie s’achève selon trois modalités distinctes : la **Suprématie**, l'**Épuisement** ou la **Déclaration de Paix**
