@@ -2,6 +2,8 @@
 
 ## Ressenti
 
+Collecte de quelques impressions :
+
 - C'est bien qu'après avoir joué pendant 1 heure et déjà bien bataillé, il y ait une fin de partie inéluctable.
 
 - Un peu  de calamités est admissible.
@@ -9,6 +11,8 @@
 - Mais c'est dommage que trop de calamités renverse la hiérarchie de la piste de score.
 
 ## Analyse de la mécanique actuelle
+
+Analysons la mécanique actuelle :
 
 * Il y a 37 tuiles au départ, mais après avoir enlever 4 montagnes, il reste 33 tuiles pouvant être occupées.
 * En moyenne, 9.5 donjons sont construits dans une partie d'après les simulations Python. Mais, ici, on arrondira à 10 donjons.
@@ -22,4 +26,20 @@
 * A 4 joueurs, donc avec 4 cartes "Courroux de la Terre", ce sont 4x3 = 12 positions qui sont ciblées. C'est à dire 12 sur 33.
   * A **4 joueur**s, la probabilité  qu'au moins 1 donjon soit détruit est donc **99.6%** ; soit une très forte probabilité !
 * Globalement, avec la mécanique actuelle, la probabilité qu'au moins un donjon soit détruit est donc très élevée ; c'est quasiment certain!
+* D'un autre côté pour que la menace soit crédible, il est cohérent d'avoir cette forte probabilité, au minimum de 90% (réalisée à 2 joueurs)
+* Les calculs (cf. feuille Excel) montrent qu'à 2 joueurs, cette probabilité descend à 78% en tirant 2 cartes positions par événement, et à 52% en tirant juste une position par événement.
+* **Conclusion** : afin de maintenir le niveau de menace assez élevé, tant en gardant des règles simples, gardons telle quelle cette mécanique des évènements calamiteux !
 
+## Nouvel événement de fin de partie
+
+Les événements calamiteux étant admis, comme faire en sorte de donner du temps aux joueurs pour s'en remettre. C'est à dire qu'il faut limiter le temps de jeu avec le second cycle des decks, mais ne pas terminer la partie abruptement sur des événements calamiteux qui, par exemple, inverse la hiérarchie des scores.
+
+Voici une proposition :
+
+* Dans le second cycle du deck, en plus des 3 calamités, chaque joueur insère un événement "**Messager pour la Paix**".
+* L'événement Messager pour la Paix ne provoque aucun changement sur le plateau. Cet événement est juste gardé sur la table, face visible.
+* Lorsque tous les joueurs ont révélé leurs Messager pour la Paix la partie s'arrête.
+* Le joueur qui pioche le dernier Messager pour la Paix termine complètement son tour de jeu, puis la partie s'arrête et on procède à la détermination du vainqueur, comme d'habitude.
+* Pour être complet, même si c'est improbable, convenons qu'un troisième cycle de deck est possible, et que dans ce cas, les cartes calamités sont à nouveau insérés dans le deck, mais pas la carte Messager pour la Paix.
+
+Reste juste à trouver le nom et le design final pour cet événement "Messager pour la Paix"
