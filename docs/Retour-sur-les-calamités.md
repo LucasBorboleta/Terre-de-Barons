@@ -54,3 +54,73 @@ Expressions :
 
 * Il y a déjà deux Hérauts de Pourparlers au Conseil... si le troisième arrive, la Paix sera ratifiée et je n'aurai pas le temps de reprendre ma cité !
 * La partie s’achève selon trois modalités distinctes : la **Suprématie**, l'**Épuisement** ou la **Diplomatie**
+
+## Probabilités sur la fin par Diplomatie
+
+Quelles fractions des seconds decks seront exploitées lorsque la fin par Diplomatie sera déclenchée ?
+
+Considérons $(X_1, X_2, ... X_n)$ sont $n=2, 3, 4$ variables aléatoires indépendantes et uniforme sur $[0,1]$, qui représentent la position relative d'une carte Héraut, alors désignons par $Z_n=max(X_1, X_2, ... X_n)$ la position la plus reculée du dernier Héraut. Que dire sur $Z$ ?
+
+Gemini nous dit que la fonction de répartition est assez simple :
+$$
+F(z) = P[Z_n \le z] = z^n
+$$
+Gemini en déduit facilement les moyennes et les quantiles. Voici les valeurs numériques:
+
+| $n$  | Moyenne | Médiane | Quantile 90% |
+| :--: | ------- | ------- | ------------ |
+|  2   | 0.667   | 0.707   | 0.949        |
+|  3   | 0.750   | 0.794   | 0.965        |
+|  4   | 0.800   | 0.841   | 0.974        |
+
+Ainsi, à 2 joueurs, en moyenne les parties sont nettement réduites. Mais à 3 et 4 joueurs, les seconds decks vont être en moyenne assez bien exploités; et si certains joueurs vont possiblement entamer un troisième deck, mécaniquement, au moins un joueur n'exploitera qu'un plus deux decks.
+
+Conclusion : mission accomplie pour les Hérauts de Pourparlers, qui empêchent de joueur à l'infini des decks.
+
+## Probabilités sur la Calamité Courroux de la Terre
+
+Voici un résumé d'étude menée par Gemini où $X$ est la variable aléatoire qui représente le nombre de Donjons détruits :
+
+* $D$ Donjons sont construits, et que cette valeur est supposée déterministe, de l'ordre de 8, 9 ou 10. Par défaut $D=10$.
+* $J$ désigne le nombre de joueurs.
+* $C$ désigne le nombre de positions tirées par carte Calamité. Les positions sont tirées sans remise. Par défaut $C=3$.
+* 33 tuiles sont constructibles, une fois les 4 montagnes placées parmi les 37 tuiles du terrain de base.
+
+Alors $X$ suit une loi dite hypergéométrique $H(n, p, N) = H(J\times C, \frac{D}{33}, 33)$.
+
+Comme il n'y a pas remise de positions, c'est équivalent de cibler en une seule fois les positions.
+
+| Nombre  de joueurs     | Nb de Donjons  (K) | Moyenne théorique | Médiane (50%  cumulé) | Quantile 90% (Pire cas) |
+| ---------------------- | ------------------ | ----------------- | --------------------- | ----------------------- |
+| 2 joueurs (6 tirages)  | 8  Donjons         | 1,45              | 1                     | 2                       |
+|                        | 9  Donjons         | 1,64              | 2                     | 3                       |
+|                        | 10  Donjons        | 1,82              | 2                     | 3                       |
+| ---                    | ---                | ---               | ---                   | ---                     |
+| 3 joueurs (9 tirages)  | 8  Donjons         | 2,18              | 2                     | 3                       |
+|                        | 9  Donjons         | 2,45              | 2                     | 4                       |
+|                        | 10  Donjons        | 2,73              | 3                     | 4                       |
+| ---                    | ---                | ---               | ---                   | ---                     |
+| 4 joueurs (12 tirages) | 8  Donjons         | 2,91              | 3                     | 4                       |
+|                        | 9  Donjons         | 3,27              | 3                     | 5                       |
+|                        | 10  Donjons        | 3,64              | 4                     | 5                       |
+
+Si on raisonne sur le quantile 90%, et à 8 Donjons, alors le nombre de Donjons touchés est à peu près égal au nombre de joueurs. Donc, en gros, 1 Donjon par joueur. Ce ratio augmente un peu en passant à 9 ou 10 Donjons.
+
+## Probabilités sur l'ensemble des Calamités
+
+Comment évolue le nombre $X$ de tuiles touchées par une des 3 Calamités ?
+
+Voici la synthèse et aussi des décisions de Game-Design que j'explique après. Le modèle d'occupation des tuiles est $T = 10 + 2 \times J$.
+
+| Nombre  de Joueurs (J) | Calamités / deck | Tirages max (n) | Tuiles occupées  (T) | Moyenne globale | Moyenne / J | Médiane globale | Médiane / J | Quantile 90%  global | Quantile 90% / J |
+| ---------------------- | ---------------- | --------------- | -------------------- | --------------- | ----------- | --------------- | ----------- | -------------------- | ---------------- |
+| J=2                    | 2                | 12              | 14                   | 5,09            | 2,55        | 5               | 2,5         | 7                    | 3,5              |
+| J=3                    | 2                | 18              | 16                   | 8,73            | 2,91        | 9               | 3           | 11                   | 3,67             |
+| J=4                    | 1                | 12              | 18                   | 6,55            | 1,64        | 7               | 1,75        | 9                    | 2,25             |
+
+Pour le second cycle du deck, le joueur insère dans sa défausse :
+
+* une carte Héraut de Pourparlers, 
+
+* 2 cartes Calamités qu'il choisit secrètement,
+* et même 1 seul carte Calamité (secrètement choisie) à 4 joueurs.
