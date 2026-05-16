@@ -30,7 +30,7 @@ Analysons la mécanique actuelle :
 * Les calculs (cf. feuille Excel) montrent qu'à 2 joueurs, cette probabilité descend à 78% en tirant 2 cartes positions par événement, et à 52% en tirant juste une position par événement.
 * **Conclusion** : afin de maintenir le niveau de menace assez élevé, tant en gardant des règles simples, gardons telle quelle cette mécanique des évènements calamiteux !
 
-## Nouvel événement de fin de partie
+## Nouvel événement de fin de partie - La Diplomatie
 
 Les événements calamiteux étant admis, comme faire en sorte de donner du temps aux joueurs pour s'en remettre. C'est à dire qu'il faut limiter le temps de jeu avec le second cycle des decks, mais ne pas terminer la partie abruptement sur des événements calamiteux qui, par exemple, inverse la hiérarchie des scores.
 
