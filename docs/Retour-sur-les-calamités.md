@@ -47,10 +47,10 @@ Reste juste à trouver le nom et le design final pour cet événement "Messager 
 ## Thématisation
 
 *  Carte "Héraut de Pourparlers"
-* Fin par "Déclaration de Paix"
+* Fin par "Diplomatie"
 * Zone du "Conseil des Hérauts"
 
 Expressions :
 
-* Il y a déjà deux Hérauts de Pourparlers au Conseil... si le troisième arrive, la Paix sera déclarée et je n'aurai pas le temps de reprendre ma cité !
-* La partie s’achève selon trois modalités distinctes : la **Suprématie**, l'**Épuisement** ou la **Déclaration de Paix**
+* Il y a déjà deux Hérauts de Pourparlers au Conseil... si le troisième arrive, la Paix sera ratifiée et je n'aurai pas le temps de reprendre ma cité !
+* La partie s’achève selon trois modalités distinctes : la **Suprématie**, l'**Épuisement** ou la **Diplomatie**
