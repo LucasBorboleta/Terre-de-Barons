@@ -152,3 +152,9 @@ Gemini m'assure les probabilités suivantes pour un seul deck:
 - Probabilité que les deux cartes Félonie soient placées avant la carte Héraut : 1/3
 - Probabilité que les deux cartes Félonie soient placées après la carte Héraut : 1/3
 - Probabilité que une et une seule carte Félonie soient placée avant la carte Héraut : 1/3
+
+Raisonnement de Gemini :
+
+* Si on considère que les 45 cartes du second deck sont équi-distribuées alors il suffit de considérer la répartition des 3 cartes $\{F_1, F_2, H\}$.
+* Il y a 6 configurations équiprobables : $(F_1, F_2, H)$, $(F_2, F_1, H)$, $(F_1, H, F_2)$, $(F_2, H, F_1)$, $(H,F_1,F_2)$,$(H,F_2,F_1)$.
+* Il n'y a plus qu'à compter ...
