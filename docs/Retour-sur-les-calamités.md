@@ -127,9 +127,9 @@ Pour le second cycle du deck, le joueur insère dans sa défausse :
 
 
 
-## Remplacer les cartes événements Calamités par des cartes événement Félonie
+## Remplacer les Calamités par Ordres-Interceptés
 
-Lorsque l'événement Félonie est révélé par le joueur actif :
+Lorsque l'événement Ordres-Interceptés est révélé par le joueur actif :
 
 - Le joueur actif désigne un adversaire.
 - Le joueur actif choisit en aveugle 2 cartes de la main adverse.
@@ -139,8 +139,8 @@ Lorsque l'événement Félonie est révélé par le joueur actif :
 
 Au second cycle, en plus de la carte événement Héraut de Pourparlers, chaque joueur insère :
 
-* Deux cartes événements Félonie à 2 et 3 joueurs.
-* Une seule carte événement Félonie à 4 joueurs.
+* Deux cartes événements Ordres-Interceptés à 2 et 3 joueurs.
+* Une seule carte événement Ordres-Interceptés à 4 joueurs.
 
 Le gameplay de la carte action Complot à la Cour est légèrement modifié:
 
@@ -149,10 +149,10 @@ Le gameplay de la carte action Complot à la Cour est légèrement modifié:
 
 Gemini m'assure les probabilités suivantes pour un seul deck:
 
-- Probabilité que les deux cartes Félonie soient placées avant la carte Héraut : 1/3
-- Probabilité que les deux cartes Félonie soient placées après la carte Héraut : 1/3
-- Probabilité que une et une seule carte Félonie soit placée avant la carte Héraut : 1/3
-- Probabilité que une ou deux cartes Félonie soient placées avant la carte Héraut : 2/3
+- Probabilité que les deux cartes Ordres-Interceptés soient placées avant la carte Héraut : 1/3
+- Probabilité que les deux cartes Ordres-Interceptés soient placées après la carte Héraut : 1/3
+- Probabilité que une et une seule carte Ordres-Interceptés soit placée avant la carte Héraut : 1/3
+- Probabilité que une ou deux cartes Ordres-Interceptés soient placées avant la carte Héraut : 2/3
 
 Raisonnement de Gemini :
 
