@@ -124,3 +124,31 @@ Pour le second cycle du deck, le joueur insère dans sa défausse :
 
 * 2 cartes Calamités qu'il choisit secrètement,
 * et même 1 seul carte Calamité (secrètement choisie) à 4 joueurs.
+
+
+
+## Remplacer les cartes événements Calamités par des cartes événement Félonie
+
+Lorsque l'événement Félonie est révélé par le joueur actif :
+
+- Le joueur actif désigne un adversaire.
+- Le joueur actif choisit en aveugle 2 cartes de la main adverse.
+- Le joueur montre à tous ces 2 cartes, puis les place face visible dans la défausse de l'adversaire.
+- Le joueur adverse reste avec 4 cartes en main jusqu'à la fin de son tour.
+- A la fin de son tour, le joueur adverse se retrouvera toujours avec 6 cartes en main.
+
+Au second cycle, en plus de la carte événement Héraut de Pourparlers, chaque joueur insère :
+
+* Deux cartes événements Félonie à 2 et 3 joueurs.
+* Une seule carte événement Félonie à 4 joueurs.
+
+Le gameplay de la carte action Complot à la Cour est légèrement modifié:
+
+* Le joueur pioche 6 cartes qu'il place dans sa main.
+* Il défausse des cartes pour n'en conserver que 6 en main.
+
+Gemini m'assure les probabilités suivantes pour un seul deck:
+
+- Probabilité que les deux cartes Félonie soient placées avant la carte Héraut : 1/3
+- Probabilité que les deux cartes Félonie soient placées après la carte Héraut : 1/3
+- Probabilité que une et une seule carte Félonie soient placée avant la carte Héraut : 1/3
