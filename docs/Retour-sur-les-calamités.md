@@ -151,7 +151,8 @@ Gemini m'assure les probabilités suivantes pour un seul deck:
 
 - Probabilité que les deux cartes Félonie soient placées avant la carte Héraut : 1/3
 - Probabilité que les deux cartes Félonie soient placées après la carte Héraut : 1/3
-- Probabilité que une et une seule carte Félonie soient placée avant la carte Héraut : 1/3
+- Probabilité que une et une seule carte Félonie soit placée avant la carte Héraut : 1/3
+- Probabilité que une ou deux cartes Félonie soient placées avant la carte Héraut : 2/3
 
 Raisonnement de Gemini :
 
