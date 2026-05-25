@@ -127,9 +127,9 @@ Pour le second cycle du deck, le joueur insère dans sa défausse :
 
 
 
-## Remplacer les Calamités par Ordres-Interceptés
+## Remplacer les Calamités par Espion
 
-Lorsque l'événement Ordres-Interceptés est révélé par le joueur actif :
+Lorsque l'événement Espion est révélé par le joueur actif :
 
 - Le joueur actif désigne un adversaire.
 - Le joueur actif choisit en aveugle 2 cartes de la main adverse.
@@ -139,8 +139,8 @@ Lorsque l'événement Ordres-Interceptés est révélé par le joueur actif :
 
 Au second cycle, en plus de la carte événement Héraut de Pourparlers, chaque joueur insère :
 
-* Deux cartes événements Ordres-Interceptés à 2 et 3 joueurs.
-* Une seule carte événement Ordres-Interceptés à 4 joueurs.
+* Deux cartes événements Espion à 2 et 3 joueurs.
+* Une seule carte événement Espion à 4 joueurs.
 
 Le gameplay de la carte action Complot à la Cour est légèrement modifié:
 
@@ -149,13 +149,40 @@ Le gameplay de la carte action Complot à la Cour est légèrement modifié:
 
 Gemini m'assure les probabilités suivantes pour un seul deck:
 
-- Probabilité que les deux cartes Ordres-Interceptés soient placées avant la carte Héraut : 1/3
-- Probabilité que les deux cartes Ordres-Interceptés soient placées après la carte Héraut : 1/3
-- Probabilité que une et une seule carte Ordres-Interceptés soit placée avant la carte Héraut : 1/3
-- Probabilité que une ou deux cartes Ordres-Interceptés soient placées avant la carte Héraut : 2/3
+- Probabilité que les deux cartes Espion soient placées avant la carte Héraut : 1/3
+- Probabilité que les deux cartes Espion soient placées après la carte Héraut : 1/3
+- Probabilité que une et une seule carte Espion soit placée avant la carte Héraut : 1/3
+- Probabilité que une ou deux cartes Espion soient placées avant la carte Héraut : 2/3
 
 Raisonnement de Gemini :
 
 * Si on considère que les 45 cartes du second deck sont équi-distribuées alors il suffit de considérer la répartition des 3 cartes $\{F_1, F_2, H\}$.
 * Il y a 6 configurations équiprobables : $(F_1, F_2, H)$, $(F_2, F_1, H)$, $(F_1, H, F_2)$, $(F_2, H, F_1)$, $(H,F_1,F_2)$,$(H,F_2,F_1)$.
 * Il n'y a plus qu'à compter ...
+
+## Et pourquoi pas une carte Action Espion
+
+Gemini me fait remarque que les joueurs ne sont en général pas frustrés par du hasard en entrée, mais qu'ils le sont pas du hasard en sortie. Or, c'est exactement ce que font les cartes Evénements. 
+
+Donc:
+
+- Limitons les cartes Evénements aux Hérauts de Pourparlers.
+- Ajoutons un carte Action Espion, mais seulement à partir du second cycle du deck.
+
+Caractéristiques de la carte Action Espion :
+
+- Coût : 2 crédits
+- Effet : 
+  - Désigner un adversaire.
+  - Le joueur actif choisit en aveugle 2 cartes de la main adverse.
+  - Le joueur montre à tous ces 2 cartes, puis les place face visible dans la défausse de l'adversaire.
+  - Le joueur adverse reste avec 4 cartes en main jusqu'à la fin de son tour.
+  - A la fin de son tour, le joueur adverse se retrouvera toujours avec 6 cartes en main.
+
+## Nouveau souffle pour le second cycle
+
+Une nouvelle logique voit le jour pour redonner du souffle et de l'envie aux joueurs de jouer le second cycle :
+
+- Les cartes Action "Recruter Chevalier" et "Exiler Chevalier" sont retirés du premier deck. Ces deux cartes rares ne sont insérées qu'à partir du second cycle du deck.
+- De même pour la carte Action "Espion".
+- De même pour la carte Evénement "Héraut de Pourparlers".
