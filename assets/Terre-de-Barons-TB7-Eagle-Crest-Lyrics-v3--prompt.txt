@@ -1,4 +1,4 @@
-Génère une piste audio d'une durée approximative de 2 minutes et 30 secondes avec les paroles en Occitan qui suivent. Consignes musicales : harmonies et accords de l'époque médiévale, mise en valeurs des voix, instrumentation à l'orgue uniquement, pas de percussion ; solaire ; rythme libre et rubato . Voici les paroles :
+Génère une piste audio d'une durée approximative de 2 minutes et 30 secondes avec les paroles en Occitan qui suivent. Consignes musicales : technique de l'organum médiéval ; voix d'hommes ; instrumentation très légère avec des cuivres ou des cors graves ; pas de percussion ; ambiance chevaleresque, médiévale, solaire et solennelle en même temps. Voici les paroles :
 
 [Verse 1]
 Cimas de nèbla, valh de glaça,
