@@ -75,12 +75,23 @@ L'intention est de fournir un format court et de voyage, en reprenant la variant
 
 - 9 Tuiles posées parmi un choix de 12 Tuiles : 3 T1, 3 T2, 3 T3 et 3 T4.
 - Uniquement en duel.
-- Les Seigneurs de chaque camp démarre à chaque extrémité.
+- Les Seigneurs (un Suzerain et deux Sénéchaux) de chaque camp démarre à chaque extrémité.
 - Deux manches sur le même terrain en inversant les camps de départ.
 - Des paramétrages à effecteur  : 
-  - Seuil de Suprématie.
-  - Seuil d'Epuisement.
-  - Nombre de Compagnies en réserve au départ.
+  - Seuil de **Suprématie** => **8 points** semble un point de départ pour les parties de test:
+    - d'après Gemini:
+      - La réserve de points de base brute sur le terrain à se partager entre deux joueurs oscille  en moyenne entre **10 et 12,5 points**.
+      - Avec le bonus de diversité, le potentiel moyen total tourne autour de **13 à 16 points** à se disputer entre les deux joueurs.
+    - d"après mes simulations en Python, qui ne se contentent de répartir les points sans tenir compte des déplacements, des blocages par Sénéchaux, etc. 
+      - Sans bonus de diversité : moyenne de 10.5 points, répartis entre 6.3 points pour le vainqueur et 4.2 points pour l'autre joueur.
+      - Avec bonus de diversité : moyenne de 13.9 points, répartis entre 8.2 points pour le vainqueur et 5.7 points pour l'autre joueur.
+      - Avec bonus de diversité : avantage au premier joueur, avec en moyenne 7.4 points versus 6.5 points ; les quartiles respectifs étant (6, 7, 9) versus (5, 7, 8) => ce qui justifie un handicap de -1 crédit au premier tour du premier joueur.
+  - Seuil **d'Epuisement** => **0 Compagnie**
+    - En 2D, en démarrant avec 30 Compagnies, le seuil de 5 Compagnies est facile à compter, et n'est pas zéro.
+    - En 1D, en démarrant avec 15 Compagnies, le seuil de 0 pourrait très bien être un point de départ pour les tests.
+  - Nombre de Compagnies en réserve au départ => **15 Compagnies** par joueur
+    - En 3D, en solo, environ 10 Fiefs sont constructibles, à raison de 3 Compagnies par Fief, ça donne 30 Compagnies par joueur.
+    - En 1D, en solo, au maximum 5 Fiefs sont constructibles, en appliquant le même facteur 3, ça donne 15 Compagnies par joueur.
 
 
 
