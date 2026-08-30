@@ -71,6 +71,8 @@ Mes expériences de parties avec les cartes Action me font d'une certaine façon
 
 ## Les Marches : Escarmouche
 
+### Les règles
+
 L'intention est de fournir un format court et de voyage, en reprenant la variante **Les Marches : Conquête** mais sur un **terrain linéaire** restreint et quelques adaptations.
 
 - 9 Tuiles posées parmi un choix de 12 Tuiles : 3 T1, 3 T2, 3 T3 et 3 T4.
@@ -94,5 +96,9 @@ L'intention est de fournir un format court et de voyage, en reprenant la variant
     - En 3D, en solo, environ 10 Fiefs sont constructibles, à raison de 3 Compagnies par Fief, ça donne 30 Compagnies par joueur.
     - En 1D, en solo, au maximum 5 Fiefs sont constructibles, en appliquant le même facteur 3, ça donne 15 Compagnies par joueur.
 
+### Le matériel
 
+- Tuiles carrées de 50 x 50 mm
+- Crédits carrés de 30 x 30 mm
+- Grille mémo avec piste de score 100 x 150 mm
 
