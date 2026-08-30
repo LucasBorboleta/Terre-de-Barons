@@ -75,6 +75,7 @@ L'intention est de fournir un format court et de voyage, en reprenant la variant
 
 - 9 Tuiles posées parmi un choix de 12 Tuiles : 3 T1, 3 T2, 3 T3 et 3 T4.
 - Uniquement en duel.
+- Suppression des Actions rares : Chevauchée Lointaine, Recruter Sénéchal, Exiler Sénéchal.
 - Les Seigneurs (un Suzerain et deux Sénéchaux) de chaque camp démarre à chaque extrémité.
 - Deux manches sur le même terrain en inversant les camps de départ.
 - Des paramétrages à effecteur  : 
