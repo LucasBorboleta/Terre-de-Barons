@@ -98,7 +98,11 @@ L'intention est de fournir un format court et de voyage, en reprenant la variant
 
 ### Le matériel
 
-- Tuiles carrées de 50 x 50 mm
+- Tuiles carrées de 60 x 60 mm
 - Crédits carrés de 30 x 30 mm
 - Grille mémo avec piste de score 100 x 150 mm
+- 15 Compagnies par joueur
+- 1 Suzerain et 2 Sénéchaux par joueur
+- 5 Donjons par joueur
 
+​       
