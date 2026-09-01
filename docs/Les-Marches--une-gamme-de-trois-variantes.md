@@ -49,6 +49,9 @@ Mes expériences récentes de parties de test m'incitent encore à modifier cert
 Mes expériences de parties avec les cartes Action me font d'une certaine façon regretter les anciennes mécaniques avec le dé de bonus à 6 faces qui laissaient beaucoup de liberté => de base il était possible à la fois de commander aux Troupes et de déplacer un Officier, mais sans dé de bonus juste recruter une Troupe et déplacer un Officier de une Tuile. Voici une forme de synthèse des deux mécaniques :
 
 - Suppression des cartes Action ou Effet.
+- Mise en place accélérée:
+  - Montagnes déjà assignées à certaines Tuiles.
+  - Suzerains et Sénéchaux démarrent respectivement sur une Tuile 1 et une Tuile 2.
 - Chaque joueur dépose d'un mini-Deck de 9 Cartes de crédits:
   - 3 cartes de 3 crédits ;
   - 4 cartes de 2 crédits ;
