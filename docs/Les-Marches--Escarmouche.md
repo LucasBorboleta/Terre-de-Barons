@@ -4,20 +4,20 @@
 
 Ce document énonce brièvement les règles de la variante "Escarmouche" du jeu "Les Marches" (nouveau nom de "Terre de Barons").
 
-L'intention est d'avoir assez d'instructions pour jouer des parties de tests,  en attendant d'écrire des règles complètes et autonomes, et sachant que ce document s'adresse à des joueurs qui connaissent déjà les règles de "Terre de Barons".
+L'intention est d'avoir assez d'instructions pour jouer des parties de test,  en attendant d'écrire des règles complètes et autonomes, et sachant que ce document s'adresse à des joueurs qui connaissent déjà les règles de "Terre de Barons".
 
 En effet, les mécaniques essentielles de "Terre de Barons" sont reprises.
 
-Dans "Les Marches", on reprend le changement de vocabulaire mis au point pour la re-thématisation dite "L'Aube des Suzerains". Voici les changements de noms:
+Dans "Les Marches", on reprend le changement de vocabulaire mis au point pour la re-thématisation dite "L'Aube des Suzerains". En voici les changements de noms:
 
 - Baron => Suzerain
 - Chevalier => Sénéchal
 - Troupe => Compagnie
 - Donjon => Fief
-- Tuile 1 associé aux Landes avec le symbole de la fleur de chardon et le fond gris.
-- Tuile 2 associé aux Forêts avec le symbole d'un bel arbre et le fond vert.
-- Tuile 3 associé aux Mines avec le symbole d'une pierre précieuse taillée et le fond bleu.
-- Tuile 4 associé aux Cultures avec le symbole d'un épi de blé et le fond jaune.
+- Tuile 1 associée aux Landes avec le symbole de la fleur de chardon et le fond gris.
+- Tuile 2 associée aux Forêts avec le symbole d'un bel arbre et le fond vert.
+- Tuile 3 associée aux Mines avec le symbole d'une pierre précieuse taillée et le fond bleu.
+- Tuile 4 associée aux Cultures avec le symbole d'un épi de blé et le fond jaune.
 
 ## Joueurs
 
@@ -40,7 +40,7 @@ La variante "Escarmouche" se joue uniquement à 2 joueurs.
 
 ## Mise en place
 
-- Mélange des 12 Tuiles ; tirage de 9 Tuiles alignées entre les deux joueurs, qui constitue le terrain.
+- Mélange des 12 Tuiles ; tirage de 9 Tuiles alignées en une rivière entre les deux joueurs; le terrain a donc une géométrie 1D.
 - Mélange de chaque min-Deck de crédits.
 - Marqueurs des scores hors des pistes.
 - Positionnent du Suzerain et des 2 Sénéchaux à chacune des extrémités du terrain.
@@ -66,18 +66,29 @@ Il est tout à fait possible de recruter en présence de Compagnies adversaires,
 Trois fins de parties persisteraient :
 * Suprématie => seuil fixé à 8 points
 * Épuisement => seuil fixé à 0 Compagnie
-* Abdication <=> fin du dernier cycle d'un mini-Deck
+* Abdication <=> fin du dernier cycle d'un mini-Deck :
+  * En comptant, 30 secondes par tour, les mini-Deck des joueurs sont joués en 2x9x30 = 9 minutes. 
+  * Donc un cycle de mini-Deck à deux joueurs prend environ 10 minutes.
+  * Limiter à **2 cycles de mini-Deck** donne donc des parties en 20 minutes => ce qui parait raisonnable pour débuter une phase de playtests.
+  * Si les joueurs trouvent la partie trop courte, ils peuvent garder le même terrain et refaire une partie en échangeant leurs camps.
+  * Le nombre de cycles des mini-decks deCartes de crédits doit être décidé en début de partie avant que les joueurs choisissent leurs camps.
 
 ## Tour de jeu
 
 - A son tour, le joueur passe ou joue une de ses Cartes de crédit, qu'il défausse face visible.
-- A la fin de son tour, le joueur complète sa main. Si nécessaire, un nouveau Deck est recréé en mélangeant la défausse.
+
+- A la fin de son tour, le joueur complète sa main. 
+
+- Si nécessaire, un nouveau Deck est recréé en mélangeant la défausse. Le recyclage par la Défausse est effectuée lorsqu'il est impossible de compléter sa main, mais pas avant.
+
 - Les actions sont les mêmes que dans le jeu de base et avec le même coût ; la fiche mémo associée à la piste de score rappelle les Actions et leurs coûts.
+
 - Le joueur peut répartir son crédit joué sur plusieurs Actions.
+
 - Les Actions rares ne sont pas jouables dans la variante Escarmouche :
   - Chevauchée Lointaine
   - Recruter Chevalier
   - Exiler Chevalier
+  
 - A son premier tour de jeu, le premier joueur ne peut pas dépenser plus que 3 crédits, même s'il joue une Carte de 3 crédits.
-- Le mini-deck des Cartes de crédits est recyclé une fois. 
-- Le recyclage par la Défausse est effectuée lorsqu'il est impossible de compléter sa main, mais pas avant.
+
