@@ -332,7 +332,7 @@ def make_statistics_on_donjon_count(mountain_count=0, test_count=100_000):
 
            
 
-def make_statistics_on_points(mountain_count=0, player_count=2, with_diversity=False, test_count=100_000, ranking=False):
+def make_statistics_on_points(mountain_count=0, player_count=2, with_diversity=False, diversity_shift=0, test_count=100_000, ranking=False):
     
     print()
     print("make_statistics_on_points: ...")
@@ -396,7 +396,8 @@ def make_statistics_on_points(mountain_count=0, player_count=2, with_diversity=F
             for player_index in range(player_count):
                 diversity = 0
                 if len(player_sorts[player_index]) >= 2:
-                    diversity = len(player_sorts[player_index])
+                    diversity = len(player_sorts[player_index]) - diversity_shift
+                    assert diversity > 0
                  
                 player_points[player_index] += diversity
                 points += diversity
@@ -411,7 +412,7 @@ def make_statistics_on_points(mountain_count=0, player_count=2, with_diversity=F
             
 
     print()
-    print(f"--- mountain_count: {mountain_count} --- with_diversity: {with_diversity}")
+    print(f"--- mountain_count: {mountain_count} --- with_diversity: {with_diversity} ; diversity_shift={diversity_shift}")
     print()
     print(f"    count = {len(points_sample)}")
     print(f"     mode = {statistics.mode(points_sample)}")
@@ -459,6 +460,8 @@ if True:
     make_statistics_on_points(player_count=2, with_diversity=False, ranking=True)
     make_statistics_on_points(player_count=2, with_diversity=True, ranking=True)
     make_statistics_on_points(player_count=2, with_diversity=True, ranking=False)
+    make_statistics_on_points(player_count=2, with_diversity=True, ranking=True, diversity_shift=1)
+    make_statistics_on_points(player_count=2, with_diversity=True, ranking=False, diversity_shift=1)
     
 print()
 _ = input("main: done ; press enter to terminate")

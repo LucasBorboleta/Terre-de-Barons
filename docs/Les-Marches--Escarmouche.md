@@ -73,6 +73,14 @@ Trois fins de parties persisteraient :
   * Si les joueurs trouvent la partie trop courte, ils peuvent garder le même terrain et refaire une partie en échangeant leurs camps.
   * Le nombre de cycles des mini-decks deCartes de crédits doit être décidé en début de partie avant que les joueurs choisissent leurs camps.
 
+## Scoring
+
+Le bonus de diversité est modifié : 
+
+- 2 couleurs de Terre => +1 ; 
+- 3 couleurs de Terre => +2 ; 
+- 4 couleurs de Terre => +1.
+
 ## Tour de jeu
 
 - A son tour, le joueur passe ou joue une de ses Cartes de crédit, qu'il défausse face visible.

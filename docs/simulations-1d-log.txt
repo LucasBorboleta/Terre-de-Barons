@@ -58,7 +58,7 @@ T4: #3 times 4 points
 total points = 30
 mean points = 2.5
 
---- mountain_count: 0 --- with_diversity: False
+--- mountain_count: 0 --- with_diversity: False ; diversity_shift=0
 
     count = 100000
      mode = 10
@@ -99,7 +99,7 @@ T4: #3 times 4 points
 total points = 30
 mean points = 2.5
 
---- mountain_count: 0 --- with_diversity: True
+--- mountain_count: 0 --- with_diversity: True ; diversity_shift=0
 
     count = 100000
      mode = 14
@@ -140,7 +140,7 @@ T4: #3 times 4 points
 total points = 30
 mean points = 2.5
 
---- mountain_count: 0 --- with_diversity: True
+--- mountain_count: 0 --- with_diversity: True ; diversity_shift=0
 
     count = 100000
      mode = 14
@@ -172,5 +172,84 @@ player 1       max = 9
 
 make_statistics_on_points: done
 
-main: done ; press enter to terminate
+make_statistics_on_points: ...
+T1: #3 times 1 points
+T2: #3 times 2 points
+T3: #3 times 3 points
+T4: #3 times 4 points
 
+total points = 30
+mean points = 2.5
+
+--- mountain_count: 0 --- with_diversity: True ; diversity_shift=1
+
+    count = 100000
+     mode = 12
+     mean = 12.2
+quartiles = [10.0, 12.0, 14.0]
+  deciles = [9.0, 10.0, 11.0, 12.0, 12.0, 13.0, 13.0, 14.0, 16.0]
+      min = 3
+      max = 20
+
+
+--- points sorted by rank at each test ? : True ---
+
+player 0     count = 100000
+player 0      mode = 8
+player 0      mean = 7.3
+player 0 quartiles = [6.0, 7.0, 8.0]
+player 0   deciles = [6.0, 6.0, 6.0, 7.0, 7.0, 8.0, 8.0, 8.0, 9.0]
+player 0       min = 2
+player 0       max = 12
+
+player 1     count = 100000
+player 1      mode = 6
+player 1      mean = 4.9
+player 1 quartiles = [4.0, 5.0, 6.0]
+player 1   deciles = [3.0, 4.0, 4.0, 4.0, 5.0, 6.0, 6.0, 6.0, 7.0]
+player 1       min = 1
+player 1       max = 8
+
+
+make_statistics_on_points: done
+
+make_statistics_on_points: ...
+T1: #3 times 1 points
+T2: #3 times 2 points
+T3: #3 times 3 points
+T4: #3 times 4 points
+
+total points = 30
+mean points = 2.5
+
+--- mountain_count: 0 --- with_diversity: True ; diversity_shift=1
+
+    count = 100000
+     mode = 12
+     mean = 12.2
+quartiles = [10.0, 12.0, 14.0]
+  deciles = [9.0, 10.0, 11.0, 12.0, 12.0, 13.0, 14.0, 14.0, 16.0]
+      min = 3
+      max = 20
+
+
+--- points sorted by rank at each test ? : False ---
+
+player 0     count = 100000
+player 0      mode = 6
+player 0      mean = 6.5
+player 0 quartiles = [5.0, 6.0, 8.0]
+player 0   deciles = [4.0, 5.0, 6.0, 6.0, 6.0, 7.0, 8.0, 8.0, 9.0]
+player 0       min = 2
+player 0       max = 12
+
+player 1     count = 100000
+player 1      mode = 6
+player 1      mean = 5.7
+player 1 quartiles = [4.0, 6.0, 7.0]
+player 1   deciles = [4.0, 4.0, 5.0, 6.0, 6.0, 6.0, 7.0, 7.0, 8.0]
+player 1       min = 1
+player 1       max = 8
+
+
+make_statistics_on_points: done
