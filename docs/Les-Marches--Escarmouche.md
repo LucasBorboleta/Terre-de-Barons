@@ -71,7 +71,7 @@ Trois fins de parties persisteraient :
   * Donc un cycle de mini-Deck à deux joueurs prend environ 10 minutes.
   * Limiter à **2 cycles de mini-Deck** donne donc des parties en 20 minutes => ce qui parait raisonnable pour débuter une phase de playtests.
   * Si les joueurs trouvent la partie trop courte, ils peuvent garder le même terrain et refaire une partie en échangeant leurs camps.
-  * Le nombre de cycles des mini-decks deCartes de crédits doit être décidé en début de partie avant que les joueurs choisissent leurs camps.
+  * Le nombre de cycles des mini-decks de Cartes de crédits doit être décidé en début de partie avant que les joueurs choisissent leurs camps.
 
 ## Scoring
 
@@ -83,11 +83,13 @@ Le bonus de diversité est modifié :
 
 ## Tour de jeu
 
-- A son tour, le joueur passe ou joue une de ses Cartes de crédit, qu'il défausse face visible.
+- A son tour, le joueur joue une de ses Cartes de crédit, qu'il défausse face visible. Il n'est pas possible de passer son tour, ou dit autrement même pour passer il faut payer.
 
 - A la fin de son tour, le joueur complète sa main. 
 
 - Si nécessaire, un nouveau Deck est recréé en mélangeant la défausse. Le recyclage par la Défausse est effectuée lorsqu'il est impossible de compléter sa main, mais pas avant.
+
+- Si le mini-Deck est vide et que c'est le dernier, le joueur continue avec moins de cartes en main. La fin de partie est déclarée lorsque les deux joueurs n'ont plus de cartes de crédit en main.
 
 - Les actions sont les mêmes que dans le jeu de base et avec le même coût ; la fiche mémo associée à la piste de score rappelle les Actions et leurs coûts.
 
