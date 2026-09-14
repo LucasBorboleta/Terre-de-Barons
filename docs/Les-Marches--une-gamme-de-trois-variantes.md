@@ -26,7 +26,7 @@ Mes expériences récentes de parties de test m'incitent encore à modifier cert
     * Sinon avec deux Suzerains (voir même quatre Suzerains dans une partie à 4 joueurs) dans la même Terre, il est compliqué de dire qui commande qui. Et puis, Suzerain qui stationne c'est tout un campement à établir, et ça prend de la place. Mais si le Suzerain ne fait que franchir, on peut admettre qui c'est rapide. Et surtout, ça va éviter les blocages en la variante 1D. 
   * La carte Effet "Suzerain Incognito" devient donc inutile.
 * La fin par Diplomatie n'a jamais pu être jouée jusqu'à présent. Et on se demande comment cet Effet pourrait être joué utilement. En effet, l'effet de la Diplomatie dépend des choix des adversaires, puisqu'il faut atteindre un quorum au Conseil des Hérauts de Pourparlers. L'aspect incitatif à jouer sa carte Héraut de Pourparlers n'est  pas clair du tout. Notamment à deux joueurs, qui va jouer cette carte ? C'est un risque à prendre pour disposer de 6 cartes Action en main, au lieu de 5 seulement ==> supprimons donc cette carte Hérault de Pourparlers et donc aussi cette fin par Diplomatie.
-* La vieille idée de stopper une partie trop longue par des Evénements ou des Effets, tels que la Diplomatie, peut très bien se réaliser par la fin par Abdication, déjà envisagée dans une version courte de **Terre de Barons** ==> au maximum deux Decks joués par joueur. Une joueur qui termine son second Deck déclenche la fin de partie. Cette fin est réellement efficace. Et cette fin là serait appelée "par Abdication" et serait mise en oeuvre avec un Reliquat de Deck pour bien marquer l'arrivée de la fin du dernier Deck.
+* La vieille idée de stopper une partie trop longue par des Evénements ou des Effets, tels que la Diplomatie, peut très bien se réaliser par la fin par Banqueroute, déjà envisagée dans une version courte de **Terre de Barons** ==> au maximum deux Decks joués par joueur. Une joueur qui termine son second Deck déclenche la fin de partie. Cette fin est réellement efficace. Et cette fin là serait appelée "par Banqueroute" et serait mise en oeuvre avec un Reliquat de Deck pour bien marquer l'arrivée de la fin du dernier Deck.
 * Se pose la question de la constitution du Deck :
   * Quels effets sont à garder ? Sachant que "Baron Incognito" et "Héraut de Pourparlers" ont déjà été supprimés.
     * +1 Crédit
@@ -42,7 +42,7 @@ Mes expériences récentes de parties de test m'incitent encore à modifier cert
 * Trois fins de parties persisteraient :
   * Suprématie ;
   * Épuisement ;
-  * Abdication.
+  * Banqueroute.
 
 ## Les Marches : Conquête
 
@@ -71,7 +71,7 @@ Mes expériences de parties avec les cartes Action me font d'une certaine façon
 - Les fins de partie sont les mêmes ou presque :
   - Suprématie ;
   - Épuisement ;
-  - Abdication ==> se fixer en début de partie un nombre maximal de cycles du mini-Deck
+  - Banqueroute ==> se fixer en début de partie un nombre maximal de cycles du mini-Deck
 
 ## Les Marches : Escarmouche
 
