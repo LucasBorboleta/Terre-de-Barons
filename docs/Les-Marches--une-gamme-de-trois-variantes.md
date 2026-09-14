@@ -49,9 +49,10 @@ Mes expériences récentes de parties de test m'incitent encore à modifier cert
 Mes expériences de parties avec les cartes Action me font d'une certaine façon regretter les anciennes mécaniques avec le dé de bonus à 6 faces qui laissaient beaucoup de liberté => de base il était possible à la fois de commander aux Troupes et de déplacer un Officier, mais sans dé de bonus juste recruter une Troupe et déplacer un Officier de une Tuile. Voici une forme de synthèse des deux mécaniques :
 
 - Suppression des cartes Action ou Effet.
-- Mise en place accélérée:
+- Mise en place accélérée à décider => bon, c'est décidé => on garde la même mise en place que pour Intrigues !
   - Montagnes déjà assignées à certaines Tuiles.
   - Suzerains et Sénéchaux démarrent respectivement sur une Tuile 1 et une Tuile 2.
+  - Suppression de la Ville Franche et des Cités Marchandes 
 - Chaque joueur dépose d'un mini-Deck de 9 Cartes de crédits:
   - 3 cartes de 3 crédits ;
   - 4 cartes de 2 crédits ;
@@ -63,7 +64,7 @@ Mes expériences de parties avec les cartes Action me font d'une certaine façon
 - A la fin de son tour, le joueur complète sa main. Si nécessaire, un nouveau Deck est recréé en mélangeant la défausse.
 - Les actions sont les mêmes que dans le jeu de base et avec le même coût.
 - Le joueur peut répartir son crédit joué sur plusieurs Actions.
-- Les Actions rares ne sont jouables qu'une seule fois par cycle de mini-Deck ==> à voir comment les matérialiser par des marqueurs, cartes ou grille.
+- Les Actions rares ne sont jouables qu'une seule fois par cycle de mini-Deck ==> à voir comment les matérialiser par des marqueurs, cartes ou grille => règle peu être pas nécessaire : en effet le coût de 3 crédits doit suffire à faire réfléchir à deux fois avant de payer une action rare, qui entre en compétition avec les construction de Fiefs
   - Chevauchée Lointaine
   - Recruter Chevalier
   - Exiler Chevalier
