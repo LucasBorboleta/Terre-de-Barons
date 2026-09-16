@@ -19,7 +19,7 @@ Who will emerge as the most powerful Baron? Are you ready for an epic adventure 
 
 <img src="./pictures/Terre-de-Barons-1.jpg" style="zoom:100%;" />
 
-Voir situations de jeu sur les [photos](#Photos) ci-dessous. Voir cette [vidéo](https://youtu.be/a39c2wJPorA)" pour un **aperçu des règles en 5 mn**. Voir le fichier "[PDF](./Terre-de-Barons-les-regles.pdf)" pour les **règles détaillées**. Read the "[PDF](./Land-of-Barons-the-Rules.pdf)" **rulebook** in **English**
+Voir situations de jeu sur les [photos](#Photos) ci-dessous. Voir cette [vidéo](https://youtu.be/a39c2wJPorA)" pour un **aperçu des règles en 5 mn**. Voir le fichier "[PDF](./Terre-de-Barons-les-regles.pdf)" pour les **règles détaillées**. Read the "[PDF](./Land-of-Barons-the-Rules.pdf)" **rulebook** in **English**. **Note:** The English translation is currently **out of date**. Please refer to the French version for the most recent and accurate mechanics of the game.
 
 Ce projet est en phase avancée de test. This project is in advanced playtesting.
 
