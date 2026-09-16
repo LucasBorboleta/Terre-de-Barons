@@ -24,6 +24,7 @@ Voir situations de jeu sur les [photos](#Photos) ci-dessous. Voir cette [vidéo]
 Voir le fichier "[PDF](./Terre-de-Barons-les-regles.pdf)" pour les **règles détaillées**. 
 
 Read the "[PDF](./Land-of-Barons-the-Rules.pdf)" **rulebook** in **English**. 
+
 **Note:** The English translation is currently **out of date**. Please refer to the French version for the most recent and accurate mechanics of the game.
 
 Ce projet est en phase avancée de test. This project is in advanced playtesting.
