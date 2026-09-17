@@ -25,12 +25,14 @@ The game ends with an immediate victory if a player establishes Supremacy (18 po
 ## 📥 Règles & Matériel / Rules & Assets
 
 🎥 **Aperçu rapide :** [Voir les règles en 5 mn (Vidéo)](https://youtu.be/a39c2wJPorA)  
+
 📖 **Règles détaillées (FR) :** [Consulter le livret au format PDF](./Terre-de-Barons-les-regles.pdf)  
+
+🇬🇧 **English Rules :** [Read the PDF rulebook](./Land-of-Barons-the-Rules.pdf)  
+
+🎵 **Bande Son / Soundtrack :** [Musiques d'immersion (YouTube Playlist)](https://www.youtube.com/playlist?list=PLui_B_YF7szOCFBv6wXk0nq-nI-0ggvXL)
+
 🕹️ **Jouer en ligne :** <img src="./pictures/Tabletopia-Logo.png" width="20px" align="center"/> [Playtest "Land of Barons" on Tabletopia](https://tabletopia.com/games/land-of-barons-fdva5w/680x340) *(Setup Français + English Setup)*  
-
-**English Rulebook ⚠️**  
-📖 **Rules (EN) :** [Read the PDF rulebook in English](./Land-of-Barons-the-Rules.pdf)  
-
 
 ---
 
