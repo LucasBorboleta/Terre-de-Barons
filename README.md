@@ -30,7 +30,7 @@ The game ends with an immediate victory if a player establishes Supremacy (18 po
 
 **English Rulebook ⚠️**  
 📖 **Rules (EN) :** [Read the PDF rulebook in English](./Land-of-Barons-the-Rules.pdf)  
-*Please note: The English translation is currently out of date. Refer to the French PDF for the most recent mechanics and balancing.*
+
 
 ---
 
