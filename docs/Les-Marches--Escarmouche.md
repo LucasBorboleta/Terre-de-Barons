@@ -102,3 +102,4 @@ Le bonus de diversité est modifié :
   
 - A son premier tour de jeu, le premier joueur ne peut pas dépenser plus que 3 crédits, même s'il joue une Carte de 3 crédits.
 
+  
