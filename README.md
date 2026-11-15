@@ -24,7 +24,7 @@ The game ends with an immediate victory if a player establishes Supremacy (18 po
 
 ## 📥 Règles & Matériel / Rules & Assets
 
-🎥 **Aperçu rapide :** [Voir les règles en 5 mn (Vidéo)](https://youtu.be/a39c2wJPorA)  
+🎥 **Aperçu rapide :** [Voir les règles en 5 mn (Vidéo)](https://youtu.be/1xR01JdMp-k)  
 
 📖 **Règles détaillées (FR) :** [Consulter le livret au format PDF](./Terre-de-Barons-les-regles.pdf)  
 
@@ -38,11 +38,11 @@ The game ends with an immediate victory if a player establishes Supremacy (18 po
 
 ## 📊 Informations générales
 
-| 👥 **Joueurs** | 2 à 4 joueurs   |      | 🎲 **Genre** |      | ⚙️ **Mécaniques**       |
-| :------------ | :-------------- | ---- | :---------- | ---- | :--------------------- |
-| 🎂 **Âge**     | 10 ans et plus  |      | Conquête    |      | Contrôle de zones      |
-| ⏱️ **Durée**   | 60 minutes      |      | Tactique    |      | Chaîne de commandement |
-| 🎯 **Public**  | Joueurs initiés |      | Logistique  |      | Gestion de main        |
+| 👥 **Joueurs** | 2 / 3 / 4 joueurs     |      | 🎲 **Genre** |      | ⚙️ **Mécaniques**       |
+| :------------ | :-------------------- | ---- | :---------- | ---- | :--------------------- |
+| 🎂 **Âge**     | 10 ans et plus        |      | Conquête    |      | Contrôle de zones      |
+| ⏱️ **Durée**   | 60 / 90 / 120 minutes |      | Tactique    |      | Chaîne de commandement |
+| 🎯 **Public**  | Joueurs initiés       |      | Logistique  |      | Gestion de main        |
 
 > ![](./pictures/CC-BY-NC-SA.png) *Terre de Barons, règles d'un jeu pour 2 à 4 joueurs. Copyright (C) 2023 [lucas.borboleta@free.fr](mailto:lucas.borboleta@free.fr) ; licence Creative Commons BY-NC-SA*
 
